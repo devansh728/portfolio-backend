@@ -1,0 +1,38 @@
+# Maven build output
+
+
+# Maven wrapper binaries
+.mvn/
+!mvnw
+!mvnw.cmd
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Git
+.git
+.gitignore
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Environment files
+
+*.key
+*.pem
+*.crt
+
+# Docker cache
+.dockerignore
+Dockerfile*
+
+# Misc
+*.swp
